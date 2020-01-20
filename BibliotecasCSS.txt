@@ -1,3 +1,0 @@
-https://necolas.github.io/normalize.css/
-
-http://kenwheeler.github.io/slick/
